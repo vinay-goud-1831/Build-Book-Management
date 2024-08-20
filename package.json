@@ -1,0 +1,26 @@
+{
+  "name": "build-book-management",
+  "version": "1.0.0",
+  "description": "library-management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay-goud-1831/Build-Book-Management.git"
+  },
+  "author": "vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay-goud-1831/Build-Book-Management/issues"
+  },
+  "homepage": "https://github.com/vinay-goud-1831/Build-Book-Management#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
