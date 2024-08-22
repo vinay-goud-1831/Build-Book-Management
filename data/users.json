@@ -1,0 +1,32 @@
+{
+  "users":[
+  {
+
+    "id" : "1",
+    "name":"vinay",
+    "surname":"ganapuram",
+    "email":"vinaygoud@gmai.com",
+    "issuedbook":"1",
+    "issueddate":"15-08-2024",
+    "returnDate":"20-08-2024",
+    "subsrciptionType" :"standard",
+    "subsrciptionDate":"10-08-2024"
+    
+    },
+    {
+
+        "id" : "2",
+        "name":"ajay",
+        "surname":"kodali",
+        "email":"ajaygoud@gmail.com",
+        "issuedbook":"2",
+        "issueddate":"17-08-2024",
+        "returndate":"27-08-2024",
+        "subsrciptionType" :"standard",
+        "subsrciptionData":"15-08-2024"
+        
+        }
+    
+
+   ]
+}
